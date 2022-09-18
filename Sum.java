@@ -10,7 +10,7 @@ public class Sum {
         if(a+b == 4)
             return 0;
         else
-            return -1
+            return -1;
         //System.out.println("\nSum of a,b = "+(a+b));
     }
 }

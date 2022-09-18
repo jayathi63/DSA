@@ -3,11 +3,10 @@ import java.util.Scanner;
 public class Sum {
     public static void main(String[] args)
     {
-        Scanner input=new Scanner(System.in);
         System.out.print("Enter 'a' value : ");
-        int a = input.nextInt();
+        int a = 1
         System.out.print("\nEnter 'b' value : ");
-        int b = input.nextInt();
+        int b = 3
         System.out.println("\nSum of a,b = "+(a+b));
         input.close();
     }

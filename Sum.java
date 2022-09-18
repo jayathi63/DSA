@@ -1,4 +1,3 @@
-#!/usr/bin/javac
 import java.util.Scanner;
 
 public class Sum {

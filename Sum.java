@@ -8,6 +8,5 @@ public class Sum {
         System.out.print("\nEnter 'b' value : ");
         int b = 3;
         System.out.println("\nSum of a,b = "+(a+b));
-        input.close();
     }
 }
